@@ -54,8 +54,9 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
+        centerTitle: true,
         backgroundColor: const Color.fromARGB(181, 17, 229, 236),
-        title: const Text("Page de connexion"),
+        title: const Text("MIAGED"),
       ),
       body: SingleChildScrollView(
         child: Form(
