@@ -1,16 +1,28 @@
-# vinted_miage
+# MIAGED
 
-A new Flutter project.
+Ceci est le repository de mon projet MIAGED. Le projet consiste en faire une version allégée de Vinted grâce au framework Flutter.
 
-## Getting Started
+## Démarrer le projet
 
-This project is a starting point for a Flutter application.
+Afin de démarrer le projet il faudra exécuter ces commandes, le premier démarrage téléchargera toutes les librairies nécessaires au projet :
 
-A few resources to get you started if this is your first Flutter project:
+    flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Le projet a été développé et testé sur la version Chrome de l'application et avec Visual Studio Code.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Vous pouvez vous connecter grâce à 2 utilisateurs :
+
+- Login : **miollan** - Password : **miollan2023**
+- Login : **delmare** - Password : **delmare2023**
+
+## Fonctionnalités principales du projet
+
+- Consultation liste de vêtements
+- Consultation des détails de vêtements
+- Modification des informations utilisateur
+- Ajout des vêtements au panier
+- Filtrage de la liste des vêtements
+- Suppression des vêtements du panier
+- Déconnexion utilisateur
+
+Si besoin d'aides ou questions vous pouvez me contacter sur mon mail universitaire ou via [LinkedIn](https://www.linkedin.com/in/thomas-delmare-0816891a3/).
